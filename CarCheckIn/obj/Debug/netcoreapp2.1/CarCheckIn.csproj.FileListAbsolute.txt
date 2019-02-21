@@ -1,0 +1,11 @@
+C:\Users\Techmaster\source\repos\CarCheckIn\CarCheckIn\bin\Debug\netcoreapp2.1\CarCheckIn.deps.json
+C:\Users\Techmaster\source\repos\CarCheckIn\CarCheckIn\bin\Debug\netcoreapp2.1\CarCheckIn.runtimeconfig.json
+C:\Users\Techmaster\source\repos\CarCheckIn\CarCheckIn\bin\Debug\netcoreapp2.1\CarCheckIn.runtimeconfig.dev.json
+C:\Users\Techmaster\source\repos\CarCheckIn\CarCheckIn\bin\Debug\netcoreapp2.1\CarCheckIn.dll
+C:\Users\Techmaster\source\repos\CarCheckIn\CarCheckIn\bin\Debug\netcoreapp2.1\CarCheckIn.pdb
+C:\Users\Techmaster\source\repos\CarCheckIn\CarCheckIn\obj\Debug\netcoreapp2.1\CarCheckIn.csprojAssemblyReference.cache
+C:\Users\Techmaster\source\repos\CarCheckIn\CarCheckIn\obj\Debug\netcoreapp2.1\CarCheckIn.csproj.CoreCompileInputs.cache
+C:\Users\Techmaster\source\repos\CarCheckIn\CarCheckIn\obj\Debug\netcoreapp2.1\CarCheckIn.AssemblyInfoInputs.cache
+C:\Users\Techmaster\source\repos\CarCheckIn\CarCheckIn\obj\Debug\netcoreapp2.1\CarCheckIn.AssemblyInfo.cs
+C:\Users\Techmaster\source\repos\CarCheckIn\CarCheckIn\obj\Debug\netcoreapp2.1\CarCheckIn.dll
+C:\Users\Techmaster\source\repos\CarCheckIn\CarCheckIn\obj\Debug\netcoreapp2.1\CarCheckIn.pdb
